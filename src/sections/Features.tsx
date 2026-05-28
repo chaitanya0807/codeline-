@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { motion } from 'framer-motion'
 import { Container } from '../components/Container'
 import { Shield, CreditCard, Activity, Zap, Lock, Globe } from 'lucide-react'
